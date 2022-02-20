@@ -1,0 +1,18 @@
+.first img{
+  position: absolute;
+  z-index: -2;
+  max-width: 610px
+}
+
+.second .box{
+  position: absolute;
+  z-index: -1;
+  border: 3px solid black;
+  color: green;
+  height: 520px;
+}
+
+.third{
+  color: red;
+  font-size: 60px;
+}
